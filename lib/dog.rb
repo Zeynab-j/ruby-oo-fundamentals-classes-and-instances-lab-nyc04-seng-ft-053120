@@ -1,4 +1,4 @@
-class Dog 
+class Dog
   @fido
   @snoopy
-  @lassie 
+  @lassie
